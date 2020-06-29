@@ -15,7 +15,7 @@
         android:gravity="center"
         android:text="0"
         android:textColor="@color/colorPrimary"
-        android:textSize="160sp"
+        android:textSize="120sp"
         app:layout_constraintBottom_toTopOf="@+id/button_count"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
